@@ -10,6 +10,7 @@ Id,Ticker,Company_Name,Entry_Date,Exit_Date,Category,note
 5,RCI,Rogers Communications Inc.,2012-10-01,active,A, 
 6,MANU,Manchester United plc,2012-10-01,active,P, 
 12,RACE,Ferrari N.V.,2016-01-04,active,A, 
+8,MSGS,Madison Square Garden Sports Corp.,2016-01-04,2020-06-30,d,changed category
 9,BATRK,"Atlanta Braves Holdings, Inc.",2016-07-01,active,P, 
 7,FWONK,Liberty Media Corporation,2017-01-03,active,P, 
 8,MSGS,Madison Square Garden Sports Corp.,2020-04-20,2026-10-26,P,change ticker

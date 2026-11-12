@@ -1,0 +1,27 @@
+Id,Ticker,Company_Name,Entry_Date,Exit_Date,Category,note
+11,CHDN,Churchill Downs Incorporated,1993-07-01,active,P, 
+16,HPK,"Hollywood Park, Inc.",1993-07-01,1999-09-29,P,changed category
+1,TRK,"Speedway Motorsports, Inc.",1995-04-03,2019-09-17,P, 
+2,DVD,"Dover Motorsports, Inc.",1997-01-02,2021-12-21,P, 
+3,ISCA,International Speedway Corporation,1997-01-02,2019-10-17,P, 
+16,HPK,"Hollywood Park, Inc.",1999-09-30,2000-03-31,D, 
+4,WWF,"World Wrestling Federation Entertainment, Inc.",2000-01-03,2002-08-07,P,change ticker
+4,WWE,"World Wrestling Entertainment, Inc.",2002-08-08,2023-09-11,P,change ticker
+5,RCI,Rogers Communications Inc.,2012-10-01,active,A, 
+6,MANU,Manchester United plc,2012-10-01,active,P, 
+12,RACE,Ferrari N.V.,2016-01-04,active,A, 
+9,BATRK,"Atlanta Braves Holdings, Inc.",2016-07-01,active,P, 
+7,FWONK,Liberty Media Corporation,2017-01-03,active,P, 
+8,MSGS,Madison Square Garden Sports Corp.,2020-04-20,2026-10-26,P,change ticker
+14,GENI,Genius Sports Limited,2021-07-01,active,D, 
+17,EDR,Endeavor Group Holdings,2021-07-01,2023-09-11,P,changed category
+15,SRAD,Sportradar Group AG,2022-01-03,active,D, 
+13,CNNE,"Cannae Holdings, Inc.",2023-04-03,active,A, 
+4,TKO,"TKO Group Holdings, Inc.",2023-09-12,active,P, 
+17,EDR,Endeavor Group Holdings,2023-09-12,2025-03-21,D, 
+21,ARES,Ares Management Corporation,2025-03-01,active,A, 
+19,NOMA,Nomadar Corp.,2026-01-01,active,A, 
+20,KKR,KKR & Co.,2026-07-01,active,A, 
+22,APO,"Apollo Global Management, Inc.",2026-07-01,active,A, 
+8,MSGK,MSG Knickerbockers Corp.,2026-10-27,active,P, 
+10,MSGR,MSG Rangers Corp.,2027-01-01,,, 
